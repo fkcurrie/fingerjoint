@@ -1,0 +1,13 @@
+# Ignore the following files and directories
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+build
+lib
+lib64
+dist
+*.egg-info
+*.egg
