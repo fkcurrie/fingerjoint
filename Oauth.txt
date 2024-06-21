@@ -1,2 +1,0 @@
-client_id = "127954823458-gtbllt5fjsnjbf9boibuanlsa2buir14.apps.googleusercontent.com"  # Replace with your Google client ID
-client_secret = "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"  # 
